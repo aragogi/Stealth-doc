@@ -73,4 +73,4 @@ the stealth address page is based on the covert address page so everyone that is
 - [ ] Integration with wallets.
 
 ## Thanks
-@anon202s This has been a challenging time, and We appreciate you so much.
+**anon2020s** We appreciate you so much that even you was busy working on mixer 4.0.0 release you share your time with us.
